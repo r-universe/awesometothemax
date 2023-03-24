@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SimilarityMeasures"]
+	path = SimilarityMeasures
+	url = https://github.com/cran/SimilarityMeasures
+	shallow = true
+	registered = true
